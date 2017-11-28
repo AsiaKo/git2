@@ -1,3 +1,7 @@
 this is git2_1 file 
+<<<<<<< HEAD
 
 some more text
+=======
+changed on github
+>>>>>>> 5faf156de75553abcc0474f177ecd3644ba8def4
